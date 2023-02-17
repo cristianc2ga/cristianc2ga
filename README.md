@@ -2,6 +2,7 @@
 ### Desarrollador de Software & Ingeniero Electrónico
 
 Soy ingeniero electrónico profesional desde hace más de 6 años.
+<!-- ![Snake animation](https://github.com/cristianc2ga/cristianc2ga/blob/output/github-contribution-grid-snake.svg) -->
 
 ## Lenguajes y Tecnologías:
 
@@ -37,3 +38,9 @@ Soy ingeniero electrónico profesional desde hace más de 6 años.
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:cristianc2ga92@gmail.com)
 <!--
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/) -->
+
+<div>
+<a href="https://github.com/cristianc2ga">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianc2ga&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianc2ga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
