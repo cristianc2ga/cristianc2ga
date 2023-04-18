@@ -1,7 +1,7 @@
 # Hola, mi nombre es Cristian Garcia 👋
 ### Desarrollador de Software & Ingeniero Electrónico
 
-Mi nombre es Cristian Camilo Garcia Alarcon soy ingeniero electrónico y desarrollador web Full Stack especializado en Javascript y Python. Actualmente trabajo como procesador de datos sísmicos en el Instituto Colombiano del Petróleo. Por otro lado, soy lider técnico del semillero de Backend - Django y también soy desarrollador en una startup llamada timebli en IncubApp Venture Capital.
+Mi nombre es Cristian Camilo Garcia Alarcon soy ingeniero electrónico y desarrollador web Full Stack enfocado en Javascript y Python. Actualmente trabajo como procesador de datos sísmicos en el Instituto Colombiano del Petróleo. Por otro lado, soy lider técnico del semillero de Backend - Django y también soy desarrollador en una startup llamada timebli en IncubApp Venture Capital.
 <!-- ![Snake animation](https://github.com/cristianc2ga/cristianc2ga/blob/output/github-contribution-grid-snake.svg) -->
 
 ## Lenguajes y Tecnologías:
