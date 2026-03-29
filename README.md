@@ -39,12 +39,8 @@ I am a Software Developer with a dual-track background: building scalable **Back
 ## GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/cristianc2ga">
-    <img src="https://github-readme-stats.vercel.app/api?username=cristianc2ga&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Cristian's GitHub Stats" />
-  </a>
-  <a href="https://github.com/cristianc2ga">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianc2ga&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=cristianc2ga&show_icons=false&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Cristian's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianc2ga&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
