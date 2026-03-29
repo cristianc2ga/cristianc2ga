@@ -1,18 +1,18 @@
-# Hi there, I'm Cristian Garcia 👋
+# Hi there, I'm Cristian Garcia
 ### Backend Tech Lead | Software Development Specialist | Electronic Engineer
 
 I am a Software Developer with a dual-track background: building scalable **Backend Architectures** and providing high-complexity **Seismic Data Processing Support**. I am passionate about clean code, cloud-native solutions, and solving critical problems. 
 
-## 🚀 About Me
-- 🔭 I’m currently working as a **Senior Technical Support Engineer** at Aspen Technology and acting as a **Backend Tech Lead** in the startup ecosystem.
-- 🏗️ I specialize in building microservices and scalable APIs using **Node.js, NestJS, and Python (Django)**.
-- 🌱 I’m currently preparing for the **AWS Cloud Practitioner** certification.
-- 💬 Ask me about: **Backend architecture, Serverless deployments, Database design, and Geophysical software (Echos/GeoDepth)**.
-- 📫 How to reach me: [cristianc2ga92@gmail.com](mailto:cristianc2ga92@gmail.com)
+## About Me
+- I’m currently working as a **Senior Technical Support Engineer** at Aspen Technology and acting as a **Backend Tech Lead** in the startup ecosystem.
+- I specialize in building microservices and scalable APIs using **Node.js, NestJS, and Python (Django)**.
+- I’m currently preparing for the **AWS Cloud Practitioner** certification.
+- Ask me about: **Backend architecture, Serverless deployments, Database design, and Geophysical software (Echos/GeoDepth)**.
+- How to reach me: [cristianc2ga92@gmail.com](mailto:cristianc2ga92@gmail.com)
 
 ---
 
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Backend & Cloud
 [![Node.JS](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)]()
@@ -36,7 +36,7 @@ I am a Software Developer with a dual-track background: building scalable **Back
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/cristianc2ga">
@@ -49,7 +49,7 @@ I am a Software Developer with a dual-track background: building scalable **Back
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/cristiangarciaalarcon/" target="_blank">
