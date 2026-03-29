@@ -34,16 +34,6 @@ I am a Software Developer with a dual-track background: building scalable **Back
 [![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristianc2ga&show_icons=false&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Cristian's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianc2ga&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
----
 
 ## Let's Connect!
 
